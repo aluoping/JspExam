@@ -1,0 +1,5 @@
+com\hand\dao\DeleteDao.class
+com\hand\dao\UserDao.class
+com\hand\util\ConnectionFactory.class
+com\hand\filter\FilterUser.class
+com\hand\servlet\LoginServlet.class
